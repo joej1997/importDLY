@@ -1,0 +1,17 @@
+Package: importDLY
+Title: Import .dly file from ECCC
+Version: 0.1
+Authors@R: 
+    person(given = "Joseph",
+           family = "Janssen",
+           role = c("aut", "cre"),
+           email = "joejanssen@eoas.ubc.ca")
+Description: Import Canadian Snow Data from .dly file
+License: `use_mit_license()`
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.0
+URL: https://github.com/joej1997
+Imports:
+	stringr
